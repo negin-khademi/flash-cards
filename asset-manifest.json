@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/negin-khademi.githun.io/flash-cards/static/css/main.d57a41d8.css",
+    "main.js": "/negin-khademi.githun.io/flash-cards/static/js/main.4643b818.js",
+    "index.html": "/negin-khademi.githun.io/flash-cards/index.html",
+    "main.d57a41d8.css.map": "/negin-khademi.githun.io/flash-cards/static/css/main.d57a41d8.css.map",
+    "main.4643b818.js.map": "/negin-khademi.githun.io/flash-cards/static/js/main.4643b818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57a41d8.css",
+    "static/js/main.4643b818.js"
+  ]
+}
